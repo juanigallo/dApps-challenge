@@ -14,4 +14,4 @@ The idea of this challenge is to create a dApp that has the ability to interact 
 - cDAI and DAI are not 1:1, we should display the amount in cDAI
 - If connected to Kovan network, you can Deposit, Borrow, Repay and Redeem directly from: [https://app.compound.finance/](https://app.compound.finance/)
 - You can use this [Faucet](https://faucet.paradigm.xyz/) to get tokens
-- If you are going to use a subgraph, [this one](https://thegraph.com/hosted-service/subgraph/juanigallo/cdai-kovan-subgraph) or create your own one
+- If you are going to use a subgraph, you can use [this one](https://thegraph.com/hosted-service/subgraph/juanigallo/cdai-kovan-subgraph) or create your own one
